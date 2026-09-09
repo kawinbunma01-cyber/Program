@@ -1,0 +1,7 @@
+5E18F97E1D5F7B336D0CFDEBE4287353511786459BE7387208EDE0DB52733C72  CapCutFree-Setup-1.0.4.exe
+
+สร้างเมื่อ 2026-09-02 15:49  ขนาด 4.8 MB
+
+วิธีตรวจสอบก่อนติดตั้ง เปิด PowerShell แล้วรัน:
+  Get-FileHash "CapCutFree-Setup-1.0.4.exe" -Algorithm SHA256
+ถ้าค่าที่ได้ไม่ตรงกับบรรทัดบนสุด แปลว่าไฟล์ถูกแก้ไข อย่าติดตั้ง
